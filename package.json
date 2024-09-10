@@ -1,0 +1,14 @@
+{
+  "name": "redhatcourse",
+  "version": "1.0.0",
+  "description": "myfirstnpmpackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "PareshGupta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
